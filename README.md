@@ -1,2 +1,2 @@
 # Fake-Virus
-This is a fake virus as my first project of coding .bat
+These are fake viruses as my first projects of coding .bat
